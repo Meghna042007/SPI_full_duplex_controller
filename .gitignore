@@ -1,0 +1,60 @@
+# Vivado Generated Files
+
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.wcfg
+*.cache
+*.hw
+*.runs
+*.sim
+*.ip_user_files
+*.gen
+*.xpr
+
+# Vivado Project Directories
+
+.cache/
+.gen/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+
+# Backup Files
+
+*.backup
+*.bak
+*~
+
+# Temporary Files
+
+*.tmp
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# VS Code
+
+.vscode/
+
+# Vivado Auto Save
+
+*.Xil
+.Xil/
+
+# Simulation Files
+
+xsim.dir/
+webtalk/
+usage_statistics_webtalk.html
+usage_statistics_webtalk.xml
+
+# Waveform Dumps
+
+*.vcd
+
